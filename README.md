@@ -1,2 +1,3 @@
-# project1-landing-page
-Git test repository for Odin Project project Landing Page https://www.theodinproject.com/lessons/foundations-landing-page
+# Project 1 Landing Page
+Git test repository for Odin Project project Landing Page <br>
+https://www.theodinproject.com/lessons/foundations-landing-page

@@ -1,3 +1,4 @@
-# Project 1 Landing Page
-Git test repository for Odin Project project Landing Page <br>
-https://www.theodinproject.com/lessons/foundations-landing-page
+# Landing Page
+Project for TOP <br>
+Assignment details at https://www.theodinproject.com/lessons/foundations-landing-page <br> <br>
+Page is accessible at https://dwolfzorn.github.io/project1-landing-page/
